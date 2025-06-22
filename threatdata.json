@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 1,
+        "Name": "John Doe",
+        "Organization": "Unknown",
+        "ThreatLevel": "High",
+        "Aliases": ["Ghost", "Shadow"]
+    },
+    {
+        "Id": 2,
+        "Name": "Jane Smith",
+        "Organization": "Red Falcon",
+        "ThreatLevel": "Medium",
+        "Aliases": ["Falcon Queen"]
+    }
+]
