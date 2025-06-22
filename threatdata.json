@@ -4,7 +4,7 @@
         "Name": "John Doe",
         "Organization": "Unknown",
         "ThreatLevel": "High",
-        "Alias": "Ghost",
+        "Aliases": ["Ghost", "Shadow"],
         "Description": "Unknown individual, uses aliases Ghost and Shadow."
     },
     {
@@ -12,7 +12,7 @@
         "Name": "Jane Smith",
         "Organization": "Red Falcon",
         "ThreatLevel": "Medium",
-        "Alias": "Falcon Queen",
+        "Aliases": ["Falcon Queen"],
         "Description": "Member of Red Falcon organization."
     }
 ]
