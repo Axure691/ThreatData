@@ -5,7 +5,9 @@
         "Organization": "Unknown",
         "ThreatLevel": 3,
         "Aliases": ["Ghost", "Shadow"],
-        "Description": "Unknown individual, uses aliases Ghost and Shadow."
+        "Description": "Unknown individual, uses aliases Ghost and Shadow.",
+        "WantedBy": "Interpol",
+        "DateAdded": "2025-06-23T00:00:00Z"
     },
     {
         "Id": 2,
@@ -13,6 +15,8 @@
         "Organization": "Red Falcon",
         "ThreatLevel": 2,
         "Aliases": ["Falcon Queen"],
-        "Description": "Member of Red Falcon organization."
+        "Description": "Member of Red Falcon organization.",
+        "WantedBy": "CIA",
+        "DateAdded": "2025-06-23T00:00:00Z"
     }
 ]
