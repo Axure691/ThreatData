@@ -7,7 +7,13 @@
         "Aliases": ["Ghost", "Shadow"],
         "Description": "Unknown individual, uses aliases Ghost and Shadow.",
         "WantedBy": "Interpol",
-        "DateAdded": "2025-06-23T00:00:00Z"
+        "DateAdded": "2025-06-23T00:00:00Z",
+        "LastModified": "2025-06-23T00:00:00Z",
+        "LastModifiedBy": null,
+        "IsDeleted": false,
+        "DeletedBy": null,
+        "DeletedAt": null,
+        "DeleteReason": null
     },
     {
         "Id": 2,
@@ -17,6 +23,12 @@
         "Aliases": ["Falcon Queen"],
         "Description": "Member of Red Falcon organization.",
         "WantedBy": "CIA",
-        "DateAdded": "2025-06-23T00:00:00Z"
+        "DateAdded": "2025-06-23T00:00:00Z",
+        "LastModified": "2025-06-23T00:00:00Z",
+        "LastModifiedBy": null,
+        "IsDeleted": false,
+        "DeletedBy": null,
+        "DeletedAt": null,
+        "DeleteReason": null
     }
 ]
